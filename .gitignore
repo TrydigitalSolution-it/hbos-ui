@@ -30,7 +30,7 @@ coverage
 *.tsbuildinfo
 
 # Dev server specific files
-.env.local
 .env.development.local
 vite.config.dev-server.ts
 src/constants/api.dev-server.ts
+config.bat
